@@ -1,9 +1,0 @@
-requests
-streamlit
-streamlit_survey
-boto3
-langchain
-transformers
-opensearch-py
-pypdf
-faiss-cpu
